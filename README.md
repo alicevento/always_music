@@ -32,5 +32,5 @@ Node.js - Entorno de ejecución de JavaScript.
 PostgreSQL - Sistema de gestión de bases de datos relacional.
 
 ## Autores ✒️
-Paulo Nodales
+Paulo Nodales 🔩
 Alicia Vento
