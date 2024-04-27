@@ -13,6 +13,8 @@ const pool = new Pool({
   //     'postgresql://alice:Camila@localhost:5433/always_music'
 });
 
+
+
 const argumentos = process.argv.slice(2);
 const comando = argumentos[0];
 const rut = argumentos[1];
